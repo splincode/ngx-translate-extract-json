@@ -1,0 +1,13 @@
+{
+    "compileOnSave": false,
+    "compilerOptions": {
+        "outDir": "./build",
+        "removeComments": true,
+        "declaration": false,
+        "moduleResolution": "node",
+        "target": "es5",
+        "typeRoots": [
+            "node_modules/@types"
+        ]
+    }
+}
